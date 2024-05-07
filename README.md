@@ -1,0 +1,1 @@
+﻿Ne pas oublier de créer un projet en URP pour avoir les textures des préfabes.
